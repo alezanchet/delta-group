@@ -1,5 +1,7 @@
 # delta-group
 
+Se você é um tester cadastrado, poderá fazer o download da aplicação android através deste link https://play.google.com/apps/internaltest/4698718085791501458
+
 1. Fazer download do repositório
 
 2. Instalar Node.js na máquina https://nodejs.org/en/
