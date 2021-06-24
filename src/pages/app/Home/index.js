@@ -104,7 +104,7 @@ const Home = () => {
   );
 
   return (
-    <View style={[styles.container, { paddingTop: insets.top }]}>
+    <View style={[styles.container, { paddingTop: insets.top + 16 }]}>
       <StatusBar style="dark" />
 
       <Image source={appIcon72} />
@@ -125,7 +125,7 @@ const Home = () => {
         </View>
       )}
 
-      <View style={[styles.buttonContainer, { bottom: insets.bottom }]}>
+      <View style={[styles.buttonContainer, { bottom: insets.bottom + 24 }]}>
         <Button
           theme="light"
           loading={false}
