@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#182F4E"
-      }
+      },
+      "package": "com.alezanchet.deltagroup"
     },
     "web": {
       "favicon": "./assets/favicon.png"
